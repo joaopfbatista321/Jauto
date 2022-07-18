@@ -75,7 +75,7 @@ namespace Jauto.Models
         public ICollection<Marcacoes> ListaMarcacoes { get; set; }
 
         /// <summary>
-        ///  Serviços da Oficina
+        ///  Servicos da Oficina
         /// </summary>
         public ICollection<Servicos> ListaServicos { get; set; }
     }
